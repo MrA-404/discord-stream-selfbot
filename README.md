@@ -35,8 +35,8 @@ Using selfbots (bots that control your own Discord account) is against Discord's
 ## Installation
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/yourusername/streambot.git
-   cd streambot
+   git clone https://github.com/MrA-404/discord-stream-selfbot.git
+   cd discord-stream-selfbot
    ```
 
 2. **Install Dependencies:**
