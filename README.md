@@ -4,7 +4,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Bun](https://img.shields.io/badge/Runtime-Bun-%23000000)](https://bun.sh)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-Required-green)](https://ffmpeg.org)
-[![Discord](https://img.shields.io/badge/FFmpeg-Required-green)](https://discord.gg/BqNPP76Hvm)
 
 StreamBot is a Discord selfbot built with Node.js and Bun runtime that allows you to stream videos, YouTube links, Twitch streams, and more directly into Discord voice channels. It uses tools like `yt-dlp` for downloading videos, `ffmpeg` for processing and streaming, and supports custom configurations for resolution, bitrate, etc. The bot can loop videos, handle live streams, and even run a simple web server for managing video files.
 
